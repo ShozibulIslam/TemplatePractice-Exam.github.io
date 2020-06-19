@@ -1,0 +1,184 @@
+*{margin: 0; padding: 0}
+
+.nav .nav-item .nav-link{
+	color: black;
+	font-weight: bold;
+}
+
+.logo h3{
+   
+    font-family: "Calibri";
+    font-weight:bold;
+    padding: 10px;
+    margin-top: 10px;
+    color: black;
+
+}
+.logo a:hover{
+	text-decoration: none;
+	color: black;
+
+}
+
+.search{
+	position: absolute;
+	top: 32px;
+}
+
+
+.header-last .buy-button{
+
+	border-radius: 60px;
+    position: absolute;
+    top: 16px;
+    left: -106px;
+    background-color: #F56531;
+    border:none;
+}
+
+.header-last .search {
+	border: none;
+    position: absolute;
+    top: 16px;
+    left: -6px;
+    color: gray;
+}
+
+.carousel-item h1{
+	position: absolute;
+    bottom: 130px;
+    left: 400px;
+    top: 200px;
+    color: white;
+    font-size: 52px;
+    font-family: cooper black;
+    text-shadow: 3px 4px black
+}
+
+.carousel-item button{
+	position: absolute;
+    bottom: 100px;
+    left: 610px;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+}
+
+
+.banner1{
+	background-color: #F3F4F9;
+	margin: 15px;
+	height: 430px;
+	border-radius: 10px;
+}
+
+.banner1-head h1{
+	text-align: center;
+	margin-top: 30px;
+}
+
+.banner1-head p{
+	text-align: center;
+	margin-bottom: 60px;
+	color: gray;
+}
+
+
+.banner-body i{
+	color: #F56531;
+}
+
+.banner-body a:hover{
+	text-decoration: none;
+}
+.banner-body h6{
+	position: absolute;
+    top: 2px;
+    left: 65px;
+    color: black;
+    
+}
+
+.banner-body p{
+	margin-left: 50px;
+	margin-bottom: 50px;
+	color: gray;
+}
+
+.banner2{
+	margin: 20px;
+    background-color: #F3F4F9;
+    height: 745px;
+}
+
+
+.banner2-header h3{
+	text-align: center;
+	margin-top: 40px;
+}
+
+.banner2-header p{
+	text-align: center;	
+}
+
+.team img {
+	width:400px;
+	height: 400px;
+	border-radius: 40px;
+	box-shadow: 2px 2px 10px;
+}
+
+.team a {
+	
+	padding: 10px;
+	margin-bottom: 50px;
+	color: gray;
+}
+
+.team a:hover{
+	text-decoration: none;
+	color: gray;
+}
+
+
+
+footer{
+	background-color: #3A3839;
+}
+
+footer .logo-part p{
+	color: white;
+}
+
+footer .logo-part h3{
+	color: white;
+	font-family: "Calibri";
+	font-weight: bold;
+	padding: 30px;
+}
+
+footer a:hover{
+	text-decoration: none;
+}
+
+footer .logo-part .social i{
+	color: white;
+	background-color: gray;
+	border:none;
+}
+
+footer .list-part h4{
+	color: white;
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+
+footer .copyright-part p{
+	text-align: center;
+	color: white;
+}
+
+footer .list-part ul li{
+	list-style: none;
+	color: white;
+}
